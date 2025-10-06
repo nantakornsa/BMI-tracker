@@ -14,12 +14,9 @@
   แสดงค่า BMI ล่าสุดและสถานะน้ำหนัก: ต่ำ, ปกติ, เกิน, อ้วน
 - **กราฟสถิติ (Visualize BMI)**  
   วาดกราฟ BMI ของผู้ใช้ตามช่วงเวลา (ใช้ `matplotlib`)
-- **จัดเก็บข้อมูล SQLite**  
-  ข้อมูลถูกเก็บในไฟล์ `bmi.db`
-- **ลบ / แก้ไขผู้ใช้ (Optional)**  
-  ลบหรือแก้ไขข้อมูลผู้ใช้
-- **Export Data (Optional)**  
-  ส่งออกข้อมูลเป็น CSV สำหรับวิเคราะห์ต่อ
+- **จัดเก็บข้อมูล .json**  
+  ข้อมูลถูกเก็บในไฟล์ `users.json`
+
 
 ---
 
@@ -28,17 +25,14 @@
 BMI-Tracker-SUMMERIZER/
 ├── bmi_tracker.py          # โค้ดหลักสำหรับจัดการผู้ใช้และคำนวณ BMI
 ├── database/
-│   └── bmi.db              # ฐานข้อมูล SQLite
-├── requirements.txt        # รายการ library ที่ต้องติดตั้ง (เช่น matplotlib, sqlite3)
+│   └── users.json          # เก็บข้อมูลผู้ใช้ในรูปแบบ JSON
+├── requirements.txt        # รายการ library ที่ต้องติดตั้ง (เช่น matplotlib)
 ├── README.md               # เอกสารอธิบายโปรเจกต์
 ├── images/                 # รูปภาพประกอบ เช่น กราฟตัวอย่าง
-├── utils/                  # ฟังก์ชันช่วยเหลือ เช่น validate input
+├── utils/                  # ฟังก์ชันช่วยเหลือ เช่น validate input, json helper
 │   └── helpers.py
 └── tests/                  # โค้ดสำหรับทดสอบโปรเจกต์
     └── test_bmi.py
-
-
-
 
 ---
 
