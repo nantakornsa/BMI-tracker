@@ -12,7 +12,7 @@ BMI-Tracker-SUMMERIZER/
 git clone https://github.com/nantakornsa/BMI-tracker.git
 cd BMI-tracker
 
-2. รันโปรแกรมหลัก
+2. รันโปรแกรมหลัก<br>
 ทำการรันเซิร์ฟเวอร์ก่อน
 python mock_api.py
 ปิดเทอมินอลแล้วทำการรันโปรแกรม
