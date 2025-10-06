@@ -1,0 +1,58 @@
+{
+    "Auto": [
+        {
+            "weight": 85.0,
+            "height": 177.0,
+            "bmi": 27.13,
+            "record_date": "2025-10-07"
+        },
+        {
+            "weight": 73.0,
+            "height": 177.0,
+            "bmi": 23.3,
+            "record_date": "2025-10-07"
+        },
+        {
+            "weight": 70.0,
+            "height": 177.0,
+            "bmi": 22.34,
+            "record_date": "2025-10-07"
+        }
+    ],
+    "Auto0824": [
+        {
+            "weight": 88.0,
+            "height": 177.0,
+            "bmi": 28.09,
+            "record_date": "2025-10-07"
+        }
+    ],
+    "Kiettipong phadermsak": [
+        {
+            "weight": 77.0,
+            "height": 177.0,
+            "bmi": 24.58,
+            "record_date": "2025-10-07"
+        },
+        {
+            "weight": 88.0,
+            "height": 177.0,
+            "bmi": 28.09,
+            "record_date": "2025-10-07"
+        },
+        {
+            "weight": 99.0,
+            "height": 177.0,
+            "bmi": 31.6,
+            "record_date": "2025-10-07"
+        }
+    ],
+    "Jeng": [
+        {
+            "weight": 79.0,
+            "height": 176.0,
+            "bmi": 25.5,
+            "record_date": "2025-10-07"
+        }
+    ]
+}
