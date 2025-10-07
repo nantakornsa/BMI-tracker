@@ -27,8 +27,7 @@ BMI-Tracker-SUMMERIZER/
 ├── database/
 │   └── users.json          # เก็บข้อมูลผู้ใช้ในรูปแบบ JSON
 ├── requirements.txt        # รายการ library ที่ต้องติดตั้ง (เช่น matplotlib)
-├── README.md               # เอกสารอธิบายโปรเจกต์
-├── images/                 # รูปภาพประกอบ เช่น กราฟตัวอย่าง
+├── README.md               # เอกสารอธิบายโปรเจกต์                
 ├── utils/                  # ฟังก์ชันช่วยเหลือ เช่น validate input, json helper
 │   └── helpers.py
 └── tests/                  # โค้ดสำหรับทดสอบโปรเจกต์
