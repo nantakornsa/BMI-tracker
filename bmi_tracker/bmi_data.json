@@ -38,35 +38,51 @@
             "weight": 88.0,
             "height": 177.0,
             "bmi": 28.09,
-            "record_date": "2025-10-07"
+            "record_date": "2025-10-06"
         },
         {
-            "weight": 99.0,
+            "weight": 77.0,
             "height": 177.0,
-            "bmi": 31.6,
-            "record_date": "2025-10-07"
+            "bmi": 24.58,
+            "record_date": "2025-10-05"
+        },
+        {
+            "weight": 77.0,
+            "height": 177.0,
+            "bmi": 24.58,
+            "record_date": "2025-10-0"
         }
     ],
     "Jeng": [
         {
-            "weight": 79.0,
+            "weight": 80.0,
             "height": 176.0,
-            "bmi": 25.5,
+            "bmi": 25.83,
             "record_date": "2025-10-07"
         }
     ],
-    "teen": [
-        {
-            "weight": 60.0,
-            "height": 175.0,
-            "bmi": 19.59,
-            "record_date": "2025-10-07"
-        },
+    "Tang": [
         {
             "weight": 70.0,
-            "height": 175.0,
-            "bmi": 22.86,
-            "record_date": "2025-10-09"
+            "height": 171.0,
+            "bmi": 23.94,
+            "record_date": "2025-10-07"
+        }
+    ],
+    "Peerased": [
+        {
+            "weight": 50.0,
+            "height": 170.0,
+            "bmi": 17.3,
+            "record_date": "2025-10-07"
+        }
+    ],
+    "skibidi": [
+        {
+            "weight": 77.0,
+            "height": 190.0,
+            "bmi": 21.33,
+            "record_date": "2025-10-07"
         }
     ]
 }
